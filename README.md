@@ -28,4 +28,7 @@
 
 #### Accessing the Dashboard Service
 
-   - Edit the Inbound Rules
+   - Edit the Inbound Rules under service/security group
+
+
+detailed instructions on https://towardsdatascience.com/how-to-use-docker-to-deploy-a-dashboard-app-on-aws-8df5fb322708
